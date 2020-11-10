@@ -1,3 +1,4 @@
 #!/bin/bash
 pwd
-ls -l
+ls -ltr
+cat vypis.sh
